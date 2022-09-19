@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aryan2245
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning c++ language
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me arusoni456@gmail.com
 
 <!---
